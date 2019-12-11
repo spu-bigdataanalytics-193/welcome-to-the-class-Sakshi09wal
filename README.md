@@ -1,4 +1,4 @@
-# :rocket: Instruction to run Assignment 1 code for Sakshi Jaiswal ! :watermelon::icecream:
+# :rocket: Instruction to run Assignment 1 code for Sakshi Jaiswal! :apple::icecream:
 
 This is the repository for all students to learn about homework/ assignment system. In this project, you, the student, are bound to use Git version control system in order to complete your projects and assignments.
 
