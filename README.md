@@ -1,4 +1,4 @@
-#  :laptop: Instruction to run Welcome Assignment code for Sakshi Jaiswal!:girl::icecream:
+#  :trophy: Instruction to run Welcome Assignment code for Sakshi Jaiswal!:girl::icecream:
 
 This is our first assigment for Big Data Analytics we were asked to create a function that would print our name in python.
 
@@ -12,10 +12,6 @@ To writing the program I decided to use Jupyter Notebook :
 
 Later I uploaded my assigment with the file called Welcome Sakshi.ipynb
 
-
-First you have to download jupyter notebook .
-Open a new python file write a program
-1)I have creted a class name print_name under that i have created a function 
 
 
 
