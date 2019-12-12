@@ -9,7 +9,7 @@ First we were asked to change the name of the README.md file to instructions.md 
 
 For writing the program I decided to use Jupyter Notebook with python 3.6 with kernel
 
-- First we will visit official anaconda site where we can dowload latest anaconda of python 3.6 after downloading latest version of anaconda we will start installer.Here is the link 
+- First we will visit official anaconda site where we can dowload latest anaconda for python 3.6 after downloading latest version of anaconda we will start installer.Here is the link 
 https://www.anaconda.com/distribution/#windows
 After that  anaconda installer will open and we click on launch button of jupyter notebook.
 Then We will start jupyter notebook for writing program.
@@ -21,10 +21,6 @@ Then We will start jupyter notebook for writing program.
 
 Later I uploaded my assigment with the file called Welcome Sakshi.ipynb
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2975b1616aecfc922dfc77bb0d791252c4516f1f
 
 
 
