@@ -13,9 +13,7 @@ To writing the program I decided to use Jupyter Notebook :
 Later I uploaded my assigment with the file called Welcome Sakshi.ipynb
 
 
-First you have to download jupyter notebook .
-Open a new python file write a program
-1)I have creted a class name print_name under that i have created a function 
+
 
 
 
