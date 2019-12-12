@@ -1,4 +1,4 @@
-#  :rocket: Instruction to run Welcome Assignment code for Sakshi Jaiswal!:girl::icecream:
+#  :trophy: Instruction to run Welcome Assignment code for Sakshi Jaiswal!:girl::icecream:
 
 This is our first assigment for Big Data Analytics we were asked to create a function that would print our name in python.
 
