@@ -21,6 +21,10 @@ Then We will start jupyter notebook for writing program.
 
 Later I uploaded my assigment with the file called Welcome Sakshi.ipynb
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2975b1616aecfc922dfc77bb0d791252c4516f1f
 
 
 
